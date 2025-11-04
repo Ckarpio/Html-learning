@@ -1,0 +1,21 @@
+body{background-color: rgb(2, 31, 46);}
+ li, p,ol,ul{color: rgb(255, 255, 255);
+text-align: center;}
+table{border: 5px solid rgb(199, 207, 169);
+    margin: 10px auto;
+color: aliceblue;}
+form{color: white;
+tab-size: 50px;
+}
+a{color: aqua;
+font-size: 20px;}
+h1, h2,h3{color: blueviolet;
+text-align: center;}
+ul, ol{
+    list-style-position: inside;
+}
+.p1{color: brown;}
+.li1{text-decoration: underline;}
+.img1{
+text-align: center;
+}
