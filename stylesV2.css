@@ -1,0 +1,81 @@
+.perent{
+border-color: rgb(255, 221, 0);
+border: 4px solid;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 10px;
+height: auto;
+width: auto;
+}
+.img{
+padding: 5px;
+border: 2px solid;
+border-color: rgb(61, 212, 86);
+}
+.maininfo{
+border: 3px solid;
+border-color: blue;
+display: grid;
+grid-template-columns: auto;
+}
+.about{
+border: 2px solid;
+border-color: blueviolet;
+}
+.me{
+border: 2px solid;
+border-color: rgb(61, 34, 87);
+}
+
+.second{
+border: 5px solid;
+border-color: aquamarine;
+display: flex;
+justify-content: space-between;
+padding: 20px;
+height: auto;
+width: auto;
+}
+
+.hobb{
+border: 2px solid;
+border-color: rgb(14, 62, 46);
+}
+.abilit{
+border: 2px solid;
+border-color: rgb(86, 158, 45);
+}
+
+.tablis{
+border: 5px solid;
+border-color: rgb(221, 255, 1);
+display: flex;
+justify-content: space-between;
+padding: 20px;
+height: auto;
+width: auto;
+
+
+
+}
+.tables{
+border: 2px solid;
+border-color: rgb(126, 30, 30);
+}
+.write{
+border: 3px solid;
+border-color: rgb(0, 255, 255);
+
+
+}
+
+.table{
+border: 3px solid;
+border-color: black;
+
+}
+
+
+
+
